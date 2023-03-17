@@ -21,6 +21,7 @@ body{
     
 }
 .latest-news-section{
+	text-align:center;
     vertical-align: top;
     background:white;
     border-radius: 20px;
@@ -47,7 +48,7 @@ body{
 p{  
     padding-left: 15px ;   
 }
-.heading{
+.header{
     padding-bottom:20px;
     text-align: center;
 }
