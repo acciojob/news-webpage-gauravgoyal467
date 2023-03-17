@@ -3,7 +3,7 @@ body{
     background:#f5f5f5;
     padding: 5px;
 }
-h1{
+#header{
     background: #011e29;
     color: white;
     padding: 20px;
@@ -20,7 +20,7 @@ h1{
     margin-right: 1%;
     
 }
-.con1{
+.latest-news-section{
     vertical-align: top;
     background:white;
     border-radius: 20px;
@@ -36,7 +36,7 @@ h1{
     padding: 10px ;
     display: inline-block;
 }
-.con3{
+.pictorial-news-section{
     
     background:white;
     border-radius: 20px;
