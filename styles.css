@@ -3,7 +3,7 @@ body{
     background:#f5f5f5;
     padding: 5px;
 }
-.header{
+header{
     background: #011e29;
     color: white;
     padding: 20px;
@@ -17,8 +17,7 @@ body{
     vertical-align: top;
     margin-top:10px;
     margin-left: 1%;
-    margin-right: 1%;
-    
+    margin-right: 1%;   
 }
 .latest-news-section{
 	text-align:center;
